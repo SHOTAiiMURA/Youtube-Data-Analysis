@@ -3,6 +3,12 @@
 
 # Introduction
 
+This repository summarizes the detailed analysis of the relationship between video upload times and viewer engagement (such as views, likes, and comments) for the top 200 YouTube videos. Using tools such as Python, Pandas, Matplotlib, Seaborn, and the Google API, we processed and visualized a large amount of data for this analysis.
+**Analysis Results:**
+Concentrated Upload Times: The top videos tend to be uploaded during specific times on weekdays.
+Correlation with View Counts: While no clear correlation between upload times and view counts was identified, slight variations were observed based on the upload times.
+Influence of Other Factors: The analysis suggests that view counts are influenced by a wide range of factors such as video content, thumbnails, titles, trends, and the demographics of the audience.
+
 # Requirement
 
 ```python
