@@ -10,7 +10,10 @@ Correlation with View Counts: While no clear correlation between upload times an
 Influence of Other Factors: The analysis suggests that view counts are influenced by a wide range of factors such as video content, thumbnails, titles, trends, and the demographics of the audience.
 
 # Requirement
-
+- **Programing Language:** Python
+- **Libraries:** Pandas, Numpy, Matplotilb, Seaborn
+- **API:** Google Public Data
+- **IDE:** Jupyter Notebook
 ```python
 import pandas as pd
 import seaborn as se
