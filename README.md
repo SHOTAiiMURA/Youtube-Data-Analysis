@@ -1,8 +1,6 @@
 # Youtube-Data-Analysis
 ![image](https://github.com/user-attachments/assets/b467f889-56c4-4300-9a1b-1f45db19c61b)
 
-# Contents
-
 # Introduction
 
 # Requirement
