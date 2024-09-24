@@ -175,7 +175,7 @@ plt.show()
 **Like Count and Comment Count:** The correlation coefficient is 0.53, similar to the correlation between view count and comment count. Videos with more likes also tend to have more comments, though the relationship is moderate.
 ```python
 #collect the category names as well to analyze the category of the trending videos
-API_KEY = 'AIzaSyAF94pq5ThP1lE4GO5bLcknPRsQRPP0a0Y'
+API_KEY = 'AIzaSyA....'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_category_mapping():
